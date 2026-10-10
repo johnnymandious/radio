@@ -1,0 +1,1981 @@
+{
+  "_readme": "Radio library for index.html. Albums play in this order in Normal mode. To add an album, copy one entry and change every field. 'duration' is m:ss or h:mm:ss. 'cover' is a path on this site (or a full URL). 'file' must be a direct link to an MP3 the licence lets you stream and redistribute. Optional: 'year', 'label', 'licenceNote'. A track can override the album's 'licence' or 'source' with its own.",
+  "albums": [
+    {
+      "id": "softspace-experiments-at-the-edge-of-time",
+      "title": "Experiments at the Edge of Time",
+      "artist": "Softspace",
+      "year": 2006,
+      "label": "Musictrade",
+      "licence": {
+        "name": "CC BY 2.5",
+        "url": "https://creativecommons.org/licenses/by/2.5/"
+      },
+      "source": "https://archive.org/details/mt007",
+      "sourceName": "Internet Archive",
+      "cover": "assets/radio/covers/softspace-experiments-at-the-edge-of-time.jpg",
+      "coverSource": "https://archive.org/download/mt007/mt007_artwork_front_400x400.jpg",
+      "tracks": [
+        {
+          "title": "Candle Flicker",
+          "duration": "5:45",
+          "file": "https://archive.org/download/mt007/01_-_Candle_Flicker.mp3"
+        },
+        {
+          "title": "Subliminal",
+          "duration": "7:09",
+          "file": "https://archive.org/download/mt007/02_-_Subliminal.mp3"
+        },
+        {
+          "title": "Loons",
+          "duration": "8:43",
+          "file": "https://archive.org/download/mt007/03_-_Loons.mp3"
+        },
+        {
+          "title": "Observatory One",
+          "duration": "8:32",
+          "file": "https://archive.org/download/mt007/04_-_Observatory_One.mp3"
+        },
+        {
+          "title": "Sun",
+          "duration": "2:49",
+          "file": "https://archive.org/download/mt007/05_-_Sun.mp3"
+        },
+        {
+          "title": "Smiling Eyes",
+          "duration": "2:56",
+          "file": "https://archive.org/download/mt007/06_-_Smiling_Eyes.mp3"
+        },
+        {
+          "title": "Summer Longings",
+          "duration": "2:37",
+          "file": "https://archive.org/download/mt007/07_-_Summer_Longings.mp3"
+        },
+        {
+          "title": "Contemplation",
+          "duration": "3:38",
+          "file": "https://archive.org/download/mt007/08_-_Contemplation.mp3"
+        },
+        {
+          "title": "Improvised One",
+          "duration": "3:40",
+          "file": "https://archive.org/download/mt007/09_-_Improvised_One.mp3"
+        },
+        {
+          "title": "Off Her Lips",
+          "duration": "4:59",
+          "file": "https://archive.org/download/mt007/10_-_Off_Her_Lips.mp3"
+        },
+        {
+          "title": "Shadowed Forest",
+          "duration": "5:27",
+          "file": "https://archive.org/download/mt007/11_-_Shadowed_Forest.mp3"
+        }
+      ]
+    },
+    {
+      "id": "alpha-trajectory-sputnik",
+      "title": "Sputnik",
+      "artist": "Alpha Trajectory",
+      "label": null,
+      "licence": {
+        "name": "CC BY-NC-ND 2.5",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/2.5/"
+      },
+      "source": "https://archive.org/details/tzpdc13",
+      "sourceName": "Internet Archive",
+      "cover": "assets/radio/covers/alpha-trajectory-sputnik.jpg",
+      "coverSource": "https://archive.org/download/tzpdc13/tzpdc13.jpg",
+      "tracks": [
+        {
+          "title": "Ionosphere",
+          "duration": "12:34",
+          "file": "https://archive.org/download/tzpdc13/tzpdc13_Alpha_Trajectory_01_Ionosphere.mp3"
+        },
+        {
+          "title": "Sapwood",
+          "duration": "13:27",
+          "file": "https://archive.org/download/tzpdc13/tzpdc13_Alpha_Trajectory_02_Sapwood.mp3"
+        },
+        {
+          "title": "RD-107",
+          "duration": "18:45",
+          "file": "https://archive.org/download/tzpdc13/tzpdc13_Alpha_Trajectory_03_RD-107.mp3"
+        },
+        {
+          "title": "Laika",
+          "duration": "17:31",
+          "file": "https://archive.org/download/tzpdc13/tzpdc13_Alpha_Trajectory_04_Laika.mp3"
+        }
+      ]
+    },
+    {
+      "id": "exalot-cosmic-voyager",
+      "title": "Cosmic Voyager",
+      "artist": "Exalot",
+      "year": 2013,
+      "label": "United Studios (USC)",
+      "licence": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+      },
+      "source": "https://archive.org/details/exalot-cosmic-voyager",
+      "sourceName": "Internet Archive",
+      "cover": "assets/radio/covers/exalot-cosmic-voyager.jpg",
+      "coverSource": "https://archive.org/download/exalot-cosmic-voyager/0188.jpg",
+      "tracks": [
+        {
+          "title": "Cosmic Voyager",
+          "duration": "7:52",
+          "file": "https://archive.org/download/exalot-cosmic-voyager/01.cosmicVoyager.mp3"
+        },
+        {
+          "title": "Distant Dark",
+          "duration": "7:56",
+          "file": "https://archive.org/download/exalot-cosmic-voyager/02.distantDark.mp3"
+        },
+        {
+          "title": "Crystal Water and the Sky",
+          "duration": "7:58",
+          "file": "https://archive.org/download/exalot-cosmic-voyager/03.crystalWaterAndTheSky.mp3"
+        },
+        {
+          "title": "Lost Hong",
+          "duration": "13:12",
+          "file": "https://archive.org/download/exalot-cosmic-voyager/04.lostHong.mp3"
+        },
+        {
+          "title": "Death Will Come Too Late",
+          "duration": "9:04",
+          "file": "https://archive.org/download/exalot-cosmic-voyager/05.deathWillComeTooLate.mp3"
+        },
+        {
+          "title": "Light-Blue Aster",
+          "duration": "8:08",
+          "file": "https://archive.org/download/exalot-cosmic-voyager/06.light-blueAster.mp3"
+        },
+        {
+          "title": "Crystal Band",
+          "duration": "6:22",
+          "file": "https://archive.org/download/exalot-cosmic-voyager/07.crystalBand.mp3"
+        },
+        {
+          "title": "Black Steel",
+          "duration": "9:21",
+          "file": "https://archive.org/download/exalot-cosmic-voyager/08.blackSteel.mp3"
+        },
+        {
+          "title": "Tears of Silence",
+          "duration": "8:54",
+          "file": "https://archive.org/download/exalot-cosmic-voyager/09.tearsOfSilence.mp3"
+        }
+      ]
+    },
+    {
+      "id": "lee-rosevere-synthcronicity",
+      "title": "Synthcronicity",
+      "artist": "Lee Rosevere",
+      "year": 2016,
+      "label": "Happy Puppy Records",
+      "licence": {
+        "name": "CC BY-NC 3.0",
+        "url": "https://creativecommons.org/licenses/by-nc/3.0/"
+      },
+      "source": "https://archive.org/details/LeeRosevere_Synthcronicity",
+      "sourceName": "Internet Archive",
+      "cover": "assets/radio/covers/lee-rosevere-synthcronicity.jpg",
+      "coverSource": "https://archive.org/download/LeeRosevere_Synthcronicity/Lee%20Rosevere%20-%20Synthcronicity%20-%20cover.png",
+      "tracks": [
+        {
+          "title": "Dreaming (body electric mix)",
+          "duration": "3:46",
+          "file": "https://archive.org/download/LeeRosevere_Synthcronicity/Lee%20Rosevere%20-%20Synthcronicity%20-%2001%20Dreaming%20%28body%20electric%20mix%29.mp3"
+        },
+        {
+          "title": "Neon Skies",
+          "duration": "3:16",
+          "file": "https://archive.org/download/LeeRosevere_Synthcronicity/Lee%20Rosevere%20-%20Synthcronicity%20-%2002%20Neon%20Skies.mp3"
+        },
+        {
+          "title": "User Friendly (future mix)",
+          "duration": "3:33",
+          "file": "https://archive.org/download/LeeRosevere_Synthcronicity/Lee%20Rosevere%20-%20Synthcronicity%20-%2003%20User%20Friendly%20%28future%20mix%29.mp3"
+        },
+        {
+          "title": "Telecom",
+          "duration": "2:48",
+          "file": "https://archive.org/download/LeeRosevere_Synthcronicity/Lee%20Rosevere%20-%20Synthcronicity%20-%2004%20Telecom.mp3"
+        },
+        {
+          "title": "Star Song",
+          "duration": "3:44",
+          "file": "https://archive.org/download/LeeRosevere_Synthcronicity/Lee%20Rosevere%20-%20Synthcronicity%20-%2005%20Star%20Song.mp3"
+        }
+      ]
+    },
+    {
+      "id": "astrovia-ambienaut",
+      "title": "Ambienaut",
+      "artist": "Astrovia",
+      "year": 2018,
+      "label": "United Studios (USC)",
+      "licence": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "source": "https://archive.org/details/astrovia-ambienaut",
+      "sourceName": "Internet Archive",
+      "cover": "assets/radio/covers/astrovia-ambienaut.jpg",
+      "coverSource": "https://archive.org/download/astrovia-ambienaut/Ambienaut.jpg",
+      "tracks": [
+        {
+          "title": "Electrobreath (Ph(r)ase of Noise)",
+          "duration": "5:27",
+          "file": "https://archive.org/download/astrovia-ambienaut/01.Electrobreath%20%28Ph%28r%29ase%20of%20Noise%29.mp3"
+        },
+        {
+          "title": "Soundbless (UV)",
+          "duration": "9:04",
+          "file": "https://archive.org/download/astrovia-ambienaut/02.Soundbless%20%28UV%29.mp3"
+        },
+        {
+          "title": "Ambienaut",
+          "duration": "8:01",
+          "file": "https://archive.org/download/astrovia-ambienaut/03.Ambienaut.mp3"
+        },
+        {
+          "title": "Ambisphere (Abandoned Lab)",
+          "duration": "8:22",
+          "file": "https://archive.org/download/astrovia-ambienaut/04.Ambisphere%20%28Abandoned%20Lab%29.mp3"
+        },
+        {
+          "title": "Avantguests (We've Got Smth in It)",
+          "duration": "11:00",
+          "file": "https://archive.org/download/astrovia-ambienaut/05.Avantguests%20%28We%27ve%20Got%20Smth%20in%20It%29.mp3"
+        },
+        {
+          "title": "Dreamension (Vaulted Halls)",
+          "duration": "13:30",
+          "file": "https://archive.org/download/astrovia-ambienaut/06.Dreamension%20%28Vaulted%20Halls%29.mp3"
+        }
+      ]
+    },
+    {
+      "id": "doc-lena-selyanina-cosmic-lullabies",
+      "title": "Cosmic Lullabies",
+      "artist": "Doc & Lena Selyanina",
+      "year": 2008,
+      "label": "Musictrade",
+      "licence": {
+        "name": "CC BY 3.0",
+        "url": "https://creativecommons.org/licenses/by/3.0/"
+      },
+      "source": "https://archive.org/details/mt018",
+      "sourceName": "Internet Archive",
+      "cover": "assets/radio/covers/doc-lena-selyanina-cosmic-lullabies.jpg",
+      "coverSource": "https://archive.org/download/mt018/mt018_artwork_front400x400.jpg",
+      "tracks": [
+        {
+          "title": "Bell Meditation",
+          "duration": "23:10",
+          "file": "https://archive.org/download/mt018/01_-_Bell_Meditation.mp3"
+        },
+        {
+          "title": "Neptune",
+          "duration": "17:02",
+          "file": "https://archive.org/download/mt018/02_-_Neptune.mp3"
+        },
+        {
+          "title": "Andromeda",
+          "duration": "19:25",
+          "file": "https://archive.org/download/mt018/03_-_Andromeda.mp3"
+        }
+      ]
+    },
+    {
+      "id": "joost-egelie-particles",
+      "title": "Particles",
+      "artist": "Joost Egelie",
+      "year": 2014,
+      "label": "United Studios (USC)",
+      "licence": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "source": "https://archive.org/details/joost-egelie-particle",
+      "sourceName": "Internet Archive",
+      "cover": "assets/radio/covers/joost-egelie-particles.jpg",
+      "coverSource": "https://archive.org/download/joost-egelie-particle/Particles.jpg",
+      "tracks": [
+        {
+          "title": "Alpha",
+          "duration": "8:16",
+          "file": "https://archive.org/download/joost-egelie-particle/01.Alpha.mp3"
+        },
+        {
+          "title": "Beta",
+          "duration": "4:24",
+          "file": "https://archive.org/download/joost-egelie-particle/02.Beta.mp3"
+        },
+        {
+          "title": "Anti Matters",
+          "duration": "4:56",
+          "file": "https://archive.org/download/joost-egelie-particle/03.Anti%20Matters.mp3"
+        },
+        {
+          "title": "Ion",
+          "duration": "10:04",
+          "file": "https://archive.org/download/joost-egelie-particle/04.Ion.mp3"
+        },
+        {
+          "title": "Gamma",
+          "duration": "6:47",
+          "file": "https://archive.org/download/joost-egelie-particle/05.Gamma.mp3"
+        },
+        {
+          "title": "Gluon",
+          "duration": "2:32",
+          "file": "https://archive.org/download/joost-egelie-particle/06.Gluon.mp3"
+        },
+        {
+          "title": "Majorana",
+          "duration": "6:26",
+          "file": "https://archive.org/download/joost-egelie-particle/07.Majorana.mp3"
+        },
+        {
+          "title": "Charm",
+          "duration": "14:58",
+          "file": "https://archive.org/download/joost-egelie-particle/08.Charm.mp3"
+        },
+        {
+          "title": "The Last Particle of This Universe",
+          "duration": "5:14",
+          "file": "https://archive.org/download/joost-egelie-particle/09.The%20Last%20Particle%20of%20This%20Universe.mp3"
+        },
+        {
+          "title": "Someone",
+          "duration": "8:22",
+          "file": "https://archive.org/download/joost-egelie-particle/10.Someone.mp3"
+        }
+      ],
+      "licenceNote": "The Internet Archive item metadata says CC BY-SA 3.0; the label's release notes on the same page say CC BY-SA 4.0. Both allow streaming and redistribution with credit. Treated as CC BY-SA 4.0 (the label's own statement)."
+    },
+    {
+      "id": "herr-doktor-199x",
+      "title": "199X",
+      "artist": "Herr Doktor",
+      "year": 2014,
+      "label": "Enough Records",
+      "licence": {
+        "name": "CC BY-NC-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+      },
+      "source": "https://archive.org/details/enrmp345_herr_doktor_-_199x",
+      "sourceName": "Internet Archive",
+      "cover": "assets/radio/covers/herr-doktor-199x.jpg",
+      "coverSource": "https://archive.org/download/enrmp345_herr_doktor_-_199x/00_herr_doktor_-_199x.jpg",
+      "tracks": [
+        {
+          "title": "The Night Theme Intro",
+          "duration": "0:55",
+          "file": "https://archive.org/download/enrmp345_herr_doktor_-_199x/01_herr_doktor_-_the_night_theme_intro.mp3"
+        },
+        {
+          "title": "Miami Call",
+          "duration": "3:16",
+          "file": "https://archive.org/download/enrmp345_herr_doktor_-_199x/02_herr_doktor_-_miami_call.mp3"
+        },
+        {
+          "title": "Inner City Lights",
+          "duration": "3:38",
+          "file": "https://archive.org/download/enrmp345_herr_doktor_-_199x/03_herr_doktor_-_inner_city_lights.mp3"
+        },
+        {
+          "title": "Interlude",
+          "duration": "2:10",
+          "file": "https://archive.org/download/enrmp345_herr_doktor_-_199x/05_herr_doktor_-_interlude.mp3"
+        },
+        {
+          "title": "Revenge",
+          "duration": "2:50",
+          "file": "https://archive.org/download/enrmp345_herr_doktor_-_199x/06_herr_doktor_-_revenge.mp3"
+        },
+        {
+          "title": "Walk",
+          "duration": "3:20",
+          "file": "https://archive.org/download/enrmp345_herr_doktor_-_199x/07_herr_doktor_-_walk.mp3"
+        },
+        {
+          "title": "So Close",
+          "duration": "3:31",
+          "file": "https://archive.org/download/enrmp345_herr_doktor_-_199x/08_herr_doktor_-_so_close.mp3"
+        }
+      ],
+      "licenceNote": "Track 4, \"Can You Kiss Me First (synthwave cover)\", is a cover of someone else's song, so the artist's CC licence may not cover the composition. It has been left out of the station."
+    },
+    {
+      "id": "quantum-mechanics-waves-fields-particles",
+      "title": "Waves, Fields & Particles",
+      "artist": "Quantum Mechanics",
+      "year": 2013,
+      "label": "United Studios (USC)",
+      "licence": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+      },
+      "source": "https://archive.org/details/quantum-mechanics-waves-fields-particles",
+      "sourceName": "Internet Archive",
+      "cover": "assets/radio/covers/quantum-mechanics-waves-fields-particles.jpg",
+      "coverSource": "https://archive.org/download/quantum-mechanics-waves-fields-particles/0176.jpg",
+      "tracks": [
+        {
+          "title": "Potentiality",
+          "duration": "8:51",
+          "file": "https://archive.org/download/quantum-mechanics-waves-fields-particles/01.Potentiality.mp3"
+        },
+        {
+          "title": "Mechanica",
+          "duration": "5:29",
+          "file": "https://archive.org/download/quantum-mechanics-waves-fields-particles/02.Mechanica.mp3"
+        },
+        {
+          "title": "Annihilation",
+          "duration": "2:03",
+          "file": "https://archive.org/download/quantum-mechanics-waves-fields-particles/03.Annihilation.mp3"
+        },
+        {
+          "title": "Particle Diffraction",
+          "duration": "5:04",
+          "file": "https://archive.org/download/quantum-mechanics-waves-fields-particles/04.Particle%20Diffraction.mp3"
+        },
+        {
+          "title": "The Big Bang",
+          "duration": "6:21",
+          "file": "https://archive.org/download/quantum-mechanics-waves-fields-particles/05.The%20Big%20Bang.mp3"
+        },
+        {
+          "title": "Superfluidity",
+          "duration": "7:40",
+          "file": "https://archive.org/download/quantum-mechanics-waves-fields-particles/06.Superfluidity.mp3"
+        }
+      ]
+    },
+    {
+      "id": "derek-nigell-tender-twilight-of-past-years",
+      "title": "Tender Twilight of Past Years",
+      "artist": "Derek Nigell",
+      "year": 2018,
+      "label": "United Studios (USC)",
+      "licence": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "source": "https://archive.org/details/derek-nigell-tender-twilight-of-past-years",
+      "sourceName": "Internet Archive",
+      "cover": "assets/radio/covers/derek-nigell-tender-twilight-of-past-years.jpg",
+      "coverSource": "https://archive.org/download/derek-nigell-tender-twilight-of-past-years/TenderTwilightOfPastYears.jpg",
+      "tracks": [
+        {
+          "title": "Tender Twilight of Past Years",
+          "duration": "5:17",
+          "file": "https://archive.org/download/derek-nigell-tender-twilight-of-past-years/01.Tender%20Twilight%20of%20Past%20Years.mp3"
+        },
+        {
+          "title": "Mist of Forests",
+          "duration": "6:42",
+          "file": "https://archive.org/download/derek-nigell-tender-twilight-of-past-years/02.Mist%20of%20Forests.mp3"
+        },
+        {
+          "title": "Stellar Scattering",
+          "duration": "7:45",
+          "file": "https://archive.org/download/derek-nigell-tender-twilight-of-past-years/03.Stellar%20Scattering.mp3"
+        },
+        {
+          "title": "Frozen Memories",
+          "duration": "6:06",
+          "file": "https://archive.org/download/derek-nigell-tender-twilight-of-past-years/04.Frozen%20Memories.mp3"
+        },
+        {
+          "title": "Bridging the Gaps",
+          "duration": "5:32",
+          "file": "https://archive.org/download/derek-nigell-tender-twilight-of-past-years/05.Bridging%20the%20Gaps.mp3"
+        },
+        {
+          "title": "Face of Spring",
+          "duration": "5:20",
+          "file": "https://archive.org/download/derek-nigell-tender-twilight-of-past-years/06.Face%20of%20Spring.mp3"
+        },
+        {
+          "title": "Moon Covered by Clouds",
+          "duration": "10:18",
+          "file": "https://archive.org/download/derek-nigell-tender-twilight-of-past-years/07.Moon%20Covered%20by%20Clouds.mp3"
+        },
+        {
+          "title": "First Steps of Spring",
+          "duration": "7:21",
+          "file": "https://archive.org/download/derek-nigell-tender-twilight-of-past-years/08.First%20Steps%20of%20Spring.mp3"
+        },
+        {
+          "title": "Moon Covered by Clouds (Short Rhythm Mix)",
+          "duration": "6:31",
+          "file": "https://archive.org/download/derek-nigell-tender-twilight-of-past-years/09.Moon%20Covered%20by%20Clouds%20%28Short%20Rhythm%20Mix%29.mp3"
+        }
+      ]
+    },
+    {
+      "id": "cousin-silas-galactic-procession",
+      "title": "Galactic Procession",
+      "artist": "Cousin Silas",
+      "year": 2018,
+      "label": null,
+      "licence": {
+        "name": "CC BY-NC-ND 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+      },
+      "source": "https://archive.org/details/waag_rel116",
+      "sourceName": "Internet Archive",
+      "cover": "assets/radio/covers/cousin-silas-galactic-procession.jpg",
+      "coverSource": "https://archive.org/download/waag_rel116/00_01_waag-rel116_front.jpg",
+      "tracks": [
+        {
+          "title": "Galactic Procession",
+          "duration": "1:06:54",
+          "file": "https://archive.org/download/waag_rel116/01_Galactic-Procession.mp3"
+        }
+      ]
+    },
+    {
+      "id": "astrovia-spectrum-and-luminosity",
+      "title": "Spectrum and Luminosity",
+      "artist": "Astrovia",
+      "year": 2020,
+      "label": "United Studios (USC)",
+      "licence": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "source": "https://archive.org/details/astrovia-spectrum-and-luminosity",
+      "sourceName": "Internet Archive",
+      "cover": "assets/radio/covers/astrovia-spectrum-and-luminosity.jpg",
+      "coverSource": "https://archive.org/download/astrovia-spectrum-and-luminosity/Spectrum%20and%20Luminosity.jpg",
+      "tracks": [
+        {
+          "title": "Brown Dwarf",
+          "duration": "6:13",
+          "file": "https://archive.org/download/astrovia-spectrum-and-luminosity/01.Astrovia%20-%20Brown%20Dwarf.mp3"
+        },
+        {
+          "title": "Neutron Star",
+          "duration": "6:26",
+          "file": "https://archive.org/download/astrovia-spectrum-and-luminosity/02.Astrovia%20-%20Neutron%20Star.mp3"
+        },
+        {
+          "title": "Supergiant",
+          "duration": "6:00",
+          "file": "https://archive.org/download/astrovia-spectrum-and-luminosity/03.Astrovia%20-%20Supergiant.mp3"
+        },
+        {
+          "title": "Nova",
+          "duration": "8:27",
+          "file": "https://archive.org/download/astrovia-spectrum-and-luminosity/04.Astrovia%20-%20Nova.mp3"
+        },
+        {
+          "title": "Wolf-Rayet: The Greatest",
+          "duration": "6:35",
+          "file": "https://archive.org/download/astrovia-spectrum-and-luminosity/05.Astrovia%20-%20Wolf-Rayet-%20The%20Greatest.mp3"
+        },
+        {
+          "title": "White Dwarf: Fading Candle",
+          "duration": "4:57",
+          "file": "https://archive.org/download/astrovia-spectrum-and-luminosity/06.Astrovia%20-%20White%20Dwarf-%20Fading%20Candle.mp3"
+        },
+        {
+          "title": "Main Sequence",
+          "duration": "13:45",
+          "file": "https://archive.org/download/astrovia-spectrum-and-luminosity/07.Astrovia%20-%20Main%20Sequence.mp3"
+        }
+      ]
+    },
+    {
+      "id": "carlo-celuque-cyber-love",
+      "title": "Cyber Love",
+      "artist": "Carlo Celuque",
+      "year": 2013,
+      "label": "United Studios (USC)",
+      "licence": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+      },
+      "source": "https://archive.org/details/carlo-celuque-cyber-love",
+      "sourceName": "Internet Archive",
+      "cover": "assets/radio/covers/carlo-celuque-cyber-love.jpg",
+      "coverSource": "https://archive.org/download/carlo-celuque-cyber-love/Cyber%20Love.jpg",
+      "tracks": [
+        {
+          "title": "Anima's Smile",
+          "duration": "3:41",
+          "file": "https://archive.org/download/carlo-celuque-cyber-love/01.Anima%2527s%20Smile.mp3"
+        },
+        {
+          "title": "Cyber Love II",
+          "duration": "4:48",
+          "file": "https://archive.org/download/carlo-celuque-cyber-love/02.Cyber%20Love%20II.mp3"
+        },
+        {
+          "title": "Transformation",
+          "duration": "4:46",
+          "file": "https://archive.org/download/carlo-celuque-cyber-love/03.Transformation.mp3"
+        },
+        {
+          "title": "Cyber Love I",
+          "duration": "7:11",
+          "file": "https://archive.org/download/carlo-celuque-cyber-love/04.Cyber%20Love%20I.mp3"
+        },
+        {
+          "title": "Dream Pulse",
+          "duration": "4:17",
+          "file": "https://archive.org/download/carlo-celuque-cyber-love/05.Dream%20Pulse.mp3"
+        },
+        {
+          "title": "Diva",
+          "duration": "4:09",
+          "file": "https://archive.org/download/carlo-celuque-cyber-love/06.Diva.mp3"
+        },
+        {
+          "title": "Orange Dream",
+          "duration": "4:04",
+          "file": "https://archive.org/download/carlo-celuque-cyber-love/07.Orange%20Dream.mp3"
+        },
+        {
+          "title": "Memories of Oldfield",
+          "duration": "5:38",
+          "file": "https://archive.org/download/carlo-celuque-cyber-love/08.Memories%20of%20Oldfield.mp3"
+        },
+        {
+          "title": "Stars are Shining",
+          "duration": "4:46",
+          "file": "https://archive.org/download/carlo-celuque-cyber-love/09.Stars%20are%20Shining.mp3"
+        },
+        {
+          "title": "Back in Time",
+          "duration": "3:25",
+          "file": "https://archive.org/download/carlo-celuque-cyber-love/10.Back%20in%20Time.mp3"
+        }
+      ]
+    },
+    {
+      "id": "amazon-watcher-slow-mission-in-space",
+      "title": "Slow Mission in Space",
+      "artist": "Amazon Watcher",
+      "label": "45 Echoes Sounds",
+      "licence": {
+        "name": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "source": "https://archive.org/details/45e-075-2018AmazonWatcher-SlowMissionInSpace",
+      "sourceName": "Internet Archive",
+      "cover": "assets/radio/covers/amazon-watcher-slow-mission-in-space.jpg",
+      "coverSource": "https://archive.org/download/45e-075-2018AmazonWatcher-SlowMissionInSpace/45E075-Cover.jpeg",
+      "tracks": [
+        {
+          "title": "Above The Planet",
+          "duration": "4:08",
+          "file": "https://archive.org/download/45e-075-2018AmazonWatcher-SlowMissionInSpace/01-Amazon_Watcher_-_Above_The_Planet.mp3"
+        },
+        {
+          "title": "Radio Satelites",
+          "duration": "6:07",
+          "file": "https://archive.org/download/45e-075-2018AmazonWatcher-SlowMissionInSpace/02-Amazon_Watcher_-_Radio_Satelites.mp3"
+        },
+        {
+          "title": "Hubble Telescope",
+          "duration": "3:49",
+          "file": "https://archive.org/download/45e-075-2018AmazonWatcher-SlowMissionInSpace/03-Amazon_Watcher_-_Hubble_Telescope.mp3"
+        },
+        {
+          "title": "Way To The Orbit",
+          "duration": "3:47",
+          "file": "https://archive.org/download/45e-075-2018AmazonWatcher-SlowMissionInSpace/04-Amazon_Watcher_-_Way_To_The_Orbit.mp3"
+        },
+        {
+          "title": "New Planets",
+          "duration": "6:29",
+          "file": "https://archive.org/download/45e-075-2018AmazonWatcher-SlowMissionInSpace/05-Amazon_Watcher_-_New_Planets.mp3"
+        },
+        {
+          "title": "Difting In Sleep",
+          "duration": "3:59",
+          "file": "https://archive.org/download/45e-075-2018AmazonWatcher-SlowMissionInSpace/06-Amazon_Watcher_-_Difting_In_Sleep.mp3"
+        },
+        {
+          "title": "Another Galaxy",
+          "duration": "12:21",
+          "file": "https://archive.org/download/45e-075-2018AmazonWatcher-SlowMissionInSpace/07-Amazon_Watcher_-_Another_Galaxy.mp3"
+        },
+        {
+          "title": "Earth Is You Home",
+          "duration": "15:10",
+          "file": "https://archive.org/download/45e-075-2018AmazonWatcher-SlowMissionInSpace/08-Amazon_Watcher_-_Earth_Is_You_Home.mp3"
+        },
+        {
+          "title": "Sleep Of The Jungle",
+          "duration": "3:27",
+          "file": "https://archive.org/download/45e-075-2018AmazonWatcher-SlowMissionInSpace/09-Amazon_Watcher_-_Sleep_Of_The_Jungle.mp3"
+        },
+        {
+          "title": "Asteroids",
+          "duration": "5:30",
+          "file": "https://archive.org/download/45e-075-2018AmazonWatcher-SlowMissionInSpace/10-Amazon_Watcher_-_Asteroids.mp3"
+        }
+      ],
+      "licenceNote": "The licence is stated in the label's release notes on the Internet Archive page (the item's licence field is blank)."
+    },
+    {
+      "id": "exalot-time-slice",
+      "title": "Time Slice",
+      "artist": "Exalot",
+      "year": 2014,
+      "label": "United Studios (USC)",
+      "licence": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "source": "https://archive.org/details/exalot-time-slice",
+      "sourceName": "Internet Archive",
+      "cover": "assets/radio/covers/exalot-time-slice.jpg",
+      "coverSource": "https://archive.org/download/exalot-time-slice/Time%20Slice.jpg",
+      "tracks": [
+        {
+          "title": "Saturn 80",
+          "duration": "5:41",
+          "file": "https://archive.org/download/exalot-time-slice/01.Saturn%2080.mp3"
+        },
+        {
+          "title": "LasTen",
+          "duration": "12:45",
+          "file": "https://archive.org/download/exalot-time-slice/02.LasTen.mp3"
+        },
+        {
+          "title": "Dioptrics",
+          "duration": "6:36",
+          "file": "https://archive.org/download/exalot-time-slice/03.Dioptrics.mp3"
+        },
+        {
+          "title": "In Clouds",
+          "duration": "11:08",
+          "file": "https://archive.org/download/exalot-time-slice/04.In%20Clouds.mp3"
+        },
+        {
+          "title": "Electrosynth",
+          "duration": "5:48",
+          "file": "https://archive.org/download/exalot-time-slice/05.Electrosynth.mp3"
+        },
+        {
+          "title": "Space Odyssey",
+          "duration": "9:38",
+          "file": "https://archive.org/download/exalot-time-slice/06.Space%20Odyssey.mp3"
+        },
+        {
+          "title": "Bifas",
+          "duration": "5:10",
+          "file": "https://archive.org/download/exalot-time-slice/07.Bifas.mp3"
+        },
+        {
+          "title": "Mine Silence",
+          "duration": "9:04",
+          "file": "https://archive.org/download/exalot-time-slice/08.Mine%20Silence.mp3"
+        },
+        {
+          "title": "Boy's Name is Max",
+          "duration": "3:54",
+          "file": "https://archive.org/download/exalot-time-slice/09.Boy%27s%20Name%20is%20Max.mp3"
+        },
+        {
+          "title": "Time Slice",
+          "duration": "4:46",
+          "file": "https://archive.org/download/exalot-time-slice/10.Time%20Slice.mp3"
+        }
+      ],
+      "licenceNote": "The Internet Archive item metadata says CC BY-SA 3.0; the label's release notes on the same page say CC BY-SA 4.0. Both allow streaming and redistribution with credit. Treated as CC BY-SA 4.0 (the label's own statement)."
+    },
+    {
+      "id": "jaime-heras-siderea",
+      "title": "Siderea",
+      "artist": "Jaime Heras",
+      "year": 2009,
+      "label": "Ear Free Music",
+      "licence": {
+        "name": "CC BY-NC-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+      },
+      "source": "https://archive.org/details/EFJAI0903",
+      "sourceName": "Internet Archive",
+      "cover": "assets/radio/covers/jaime-heras-siderea.jpg",
+      "coverSource": "https://archive.org/download/EFJAI0903/SidereaCoverSq.jpg",
+      "tracks": [
+        {
+          "title": "Siderea",
+          "duration": "21:46",
+          "file": "https://archive.org/download/EFJAI0903/01-Siderea.mp3"
+        },
+        {
+          "title": "Kaleidoscope",
+          "duration": "11:06",
+          "file": "https://archive.org/download/EFJAI0903/02-Kaleidoscope.mp3"
+        },
+        {
+          "title": "Beyond The Edge of Knowledge",
+          "duration": "15:42",
+          "file": "https://archive.org/download/EFJAI0903/03-BTEOK.mp3"
+        }
+      ]
+    },
+    {
+      "id": "alone-beautiful-universe",
+      "title": "Beautiful Universe",
+      "artist": "ALONE",
+      "year": 2017,
+      "label": "45 Echoes Sounds",
+      "licence": {
+        "name": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "source": "https://archive.org/details/45e-068-2017Alone-BeautifulUniverse",
+      "sourceName": "Internet Archive",
+      "cover": "assets/radio/covers/alone-beautiful-universe.jpg",
+      "coverSource": "https://archive.org/download/45e-068-2017Alone-BeautifulUniverse/Alone-BeautifulUniverse1400x1400png.png",
+      "tracks": [
+        {
+          "title": "Beautiful universe",
+          "duration": "7:24",
+          "file": "https://archive.org/download/45e-068-2017Alone-BeautifulUniverse/01-BeautifulUniverse.mp3"
+        },
+        {
+          "title": "Meteor shower",
+          "duration": "6:09",
+          "file": "https://archive.org/download/45e-068-2017Alone-BeautifulUniverse/02-MeteorShower.mp3"
+        },
+        {
+          "title": "Pillar of stars",
+          "duration": "6:08",
+          "file": "https://archive.org/download/45e-068-2017Alone-BeautifulUniverse/03-PillarOfStars.mp3"
+        },
+        {
+          "title": "Stardance",
+          "duration": "7:24",
+          "file": "https://archive.org/download/45e-068-2017Alone-BeautifulUniverse/04-Stardance.mp3"
+        },
+        {
+          "title": "Constellation",
+          "duration": "8:38",
+          "file": "https://archive.org/download/45e-068-2017Alone-BeautifulUniverse/05-Constellation.mp3"
+        },
+        {
+          "title": "Like a Waitomo",
+          "duration": "7:16",
+          "file": "https://archive.org/download/45e-068-2017Alone-BeautifulUniverse/06-LikeAWaitomo.mp3"
+        },
+        {
+          "title": "Northern Lights",
+          "duration": "6:40",
+          "file": "https://archive.org/download/45e-068-2017Alone-BeautifulUniverse/07-NorthernLights.mp3"
+        },
+        {
+          "title": "To the sky",
+          "duration": "6:36",
+          "file": "https://archive.org/download/45e-068-2017Alone-BeautifulUniverse/08-ToTheSky.mp3"
+        },
+        {
+          "title": "The Path",
+          "duration": "7:33",
+          "file": "https://archive.org/download/45e-068-2017Alone-BeautifulUniverse/09-ThePath.mp3"
+        }
+      ]
+    },
+    {
+      "id": "quantum-mechanics-long-way-to-nowhere",
+      "title": "Long Way to Nowhere",
+      "artist": "Quantum Mechanics",
+      "year": 2013,
+      "label": "United Studios (USC)",
+      "licence": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+      },
+      "source": "https://archive.org/details/quantum-mechanics-long-way-to-nowhere",
+      "sourceName": "Internet Archive",
+      "cover": "assets/radio/covers/quantum-mechanics-long-way-to-nowhere.jpg",
+      "coverSource": "https://archive.org/download/quantum-mechanics-long-way-to-nowhere/0196.jpg",
+      "tracks": [
+        {
+          "title": "In the Beginning There Was Nothing",
+          "duration": "8:41",
+          "file": "https://archive.org/download/quantum-mechanics-long-way-to-nowhere/01.In%20the%20Beginning%20There%20Was%20Nothing.mp3"
+        },
+        {
+          "title": "Let There Be Photon",
+          "duration": "5:36",
+          "file": "https://archive.org/download/quantum-mechanics-long-way-to-nowhere/02.Let%20There%20Be%20Photon.mp3"
+        },
+        {
+          "title": "Design of Time",
+          "duration": "7:18",
+          "file": "https://archive.org/download/quantum-mechanics-long-way-to-nowhere/03.Design%20of%20Time.mp3"
+        },
+        {
+          "title": "Long Way to Nowhere",
+          "duration": "5:02",
+          "file": "https://archive.org/download/quantum-mechanics-long-way-to-nowhere/04.Long%20Way%20to%20Nowhere.mp3"
+        },
+        {
+          "title": "Faster Than Light",
+          "duration": "8:04",
+          "file": "https://archive.org/download/quantum-mechanics-long-way-to-nowhere/05.Faster%20Than%20Light.mp3"
+        },
+        {
+          "title": "Black Hole Sleepers",
+          "duration": "3:34",
+          "file": "https://archive.org/download/quantum-mechanics-long-way-to-nowhere/06.Black%20Hole%20Sleepers.mp3"
+        },
+        {
+          "title": "Particles of God",
+          "duration": "5:20",
+          "file": "https://archive.org/download/quantum-mechanics-long-way-to-nowhere/07.Particles%20of%20God.mp3"
+        },
+        {
+          "title": "Clear Thinks",
+          "duration": "5:17",
+          "file": "https://archive.org/download/quantum-mechanics-long-way-to-nowhere/08.Clear%20Thinks.mp3"
+        },
+        {
+          "title": "Where is No Time",
+          "duration": "5:59",
+          "file": "https://archive.org/download/quantum-mechanics-long-way-to-nowhere/09.Where%20is%20No%20Time.mp3"
+        },
+        {
+          "title": "Last Dream of Mind",
+          "duration": "4:45",
+          "file": "https://archive.org/download/quantum-mechanics-long-way-to-nowhere/10.Last%20Dream%20of%20Mind.mp3"
+        }
+      ]
+    },
+    {
+      "id": "cousin-silas-unlimited-boundaries",
+      "title": "Unlimited Boundaries",
+      "artist": "Cousin Silas",
+      "year": 2018,
+      "licence": {
+        "name": "CC BY-NC-ND 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+      },
+      "source": "https://archive.org/details/waag_rel114",
+      "sourceName": "Internet Archive",
+      "cover": "assets/radio/covers/cousin-silas-unlimited-boundaries.jpg",
+      "coverSource": "https://archive.org/download/waag_rel114/00_01_waag_rel114_front.jpg",
+      "tracks": [
+        {
+          "title": "Unlimited Boundaries",
+          "duration": "1:00:54",
+          "file": "https://archive.org/download/waag_rel114/01_Unlimited-Boundaries.mp3"
+        }
+      ]
+    },
+    {
+      "id": "herr-doktor-time-for-love",
+      "title": "Time for Love",
+      "artist": "Herr Doktor",
+      "year": 2017,
+      "label": "Enough Records",
+      "licence": {
+        "name": "CC BY-NC-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+      },
+      "source": "https://archive.org/details/enrmp397_herr_doktor_-_time_for_love",
+      "sourceName": "Internet Archive",
+      "cover": "assets/radio/covers/herr-doktor-time-for-love.jpg",
+      "coverSource": "https://archive.org/download/enrmp397_herr_doktor_-_time_for_love/00_herr_doktor_-_time_for_love.png",
+      "tracks": [
+        {
+          "title": "Intro",
+          "duration": "3:23",
+          "file": "https://archive.org/download/enrmp397_herr_doktor_-_time_for_love/01_herr_doktor_-_intro.mp3"
+        },
+        {
+          "title": "Time for Love",
+          "duration": "4:00",
+          "file": "https://archive.org/download/enrmp397_herr_doktor_-_time_for_love/02_herr_doktor_-_time_for_love.mp3"
+        },
+        {
+          "title": "Ana",
+          "duration": "3:25",
+          "file": "https://archive.org/download/enrmp397_herr_doktor_-_time_for_love/03_herr_doktor_-_ana.mp3"
+        },
+        {
+          "title": "After Wave",
+          "duration": "3:43",
+          "file": "https://archive.org/download/enrmp397_herr_doktor_-_time_for_love/04_herr_doktor_-_after_wave.mp3"
+        },
+        {
+          "title": "The Night Heat",
+          "duration": "2:37",
+          "file": "https://archive.org/download/enrmp397_herr_doktor_-_time_for_love/05_herr_doktor_-_the_night_heat.mp3"
+        },
+        {
+          "title": "Fantasy Allure",
+          "duration": "3:23",
+          "file": "https://archive.org/download/enrmp397_herr_doktor_-_time_for_love/06_herr_doktor_-_fantasy_allure.mp3"
+        },
+        {
+          "title": "Neon Riding",
+          "duration": "4:04",
+          "file": "https://archive.org/download/enrmp397_herr_doktor_-_time_for_love/07_herr_doktor_-_neon_riding.mp3"
+        },
+        {
+          "title": "Farewell My Friend",
+          "duration": "4:08",
+          "file": "https://archive.org/download/enrmp397_herr_doktor_-_time_for_love/08_herr_doktor_-_farewell_my_friend.mp3"
+        },
+        {
+          "title": "Moon Garden (feat. Cavaliers of Fun) (Reprise)",
+          "duration": "2:50",
+          "file": "https://archive.org/download/enrmp397_herr_doktor_-_time_for_love/09_herr_doktor_-_moon_garden__feat__cavaliers_of_fun___reprise_.mp3"
+        }
+      ]
+    },
+    {
+      "id": "wmri-voices-of-space",
+      "title": "Voices of Space",
+      "artist": "WMRI",
+      "year": 2012,
+      "label": "United Studios (USC)",
+      "licence": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+      },
+      "source": "https://archive.org/details/wmri-voices-of-space",
+      "sourceName": "Internet Archive",
+      "cover": "assets/radio/covers/wmri-voices-of-space.jpg",
+      "coverSource": "https://archive.org/download/wmri-voices-of-space/0004.jpg",
+      "tracks": [
+        {
+          "title": "Voice One",
+          "duration": "0:58",
+          "file": "https://archive.org/download/wmri-voices-of-space/01.Voice%20One.mp3"
+        },
+        {
+          "title": "Stardust",
+          "duration": "8:05",
+          "file": "https://archive.org/download/wmri-voices-of-space/02.Stardust.mp3"
+        },
+        {
+          "title": "Voice Two",
+          "duration": "0:49",
+          "file": "https://archive.org/download/wmri-voices-of-space/03.Voice%20Two.mp3"
+        },
+        {
+          "title": "Planet's Orbit",
+          "duration": "6:32",
+          "file": "https://archive.org/download/wmri-voices-of-space/04.Planet%2527s%20Orbit.mp3"
+        },
+        {
+          "title": "Visions",
+          "duration": "8:05",
+          "file": "https://archive.org/download/wmri-voices-of-space/05.Visions.mp3"
+        },
+        {
+          "title": "Voice Three",
+          "duration": "1:13",
+          "file": "https://archive.org/download/wmri-voices-of-space/06.Voice%20Three.mp3"
+        },
+        {
+          "title": "Emotional Signals",
+          "duration": "9:34",
+          "file": "https://archive.org/download/wmri-voices-of-space/07.Emotional%20Signals.mp3"
+        },
+        {
+          "title": "Voice Four",
+          "duration": "1:19",
+          "file": "https://archive.org/download/wmri-voices-of-space/08.Voice%20Four.mp3"
+        },
+        {
+          "title": "Lost in Space",
+          "duration": "8:04",
+          "file": "https://archive.org/download/wmri-voices-of-space/09.Lost%20in%20Space.mp3"
+        },
+        {
+          "title": "Lost in Time",
+          "duration": "4:28",
+          "file": "https://archive.org/download/wmri-voices-of-space/10.Lost%20in%20Time.mp3"
+        },
+        {
+          "title": "Parsecs Part I",
+          "duration": "7:55",
+          "file": "https://archive.org/download/wmri-voices-of-space/11.Parsecs%20Part%20I.mp3"
+        },
+        {
+          "title": "Parsecs Part II",
+          "duration": "7:33",
+          "file": "https://archive.org/download/wmri-voices-of-space/12.Parsecs%20Part%20II.mp3"
+        },
+        {
+          "title": "Final Voice",
+          "duration": "1:05",
+          "file": "https://archive.org/download/wmri-voices-of-space/13.Final%20Voice.mp3"
+        },
+        {
+          "title": "Starlight",
+          "duration": "3:49",
+          "file": "https://archive.org/download/wmri-voices-of-space/14.Starlight.mp3"
+        },
+        {
+          "title": "Voices of Space",
+          "duration": "10:31",
+          "file": "https://archive.org/download/wmri-voices-of-space/15.Voices%20of%20Space.mp3"
+        }
+      ]
+    },
+    {
+      "id": "kirill-platonkin-rest-in-space",
+      "title": "Rest in Space",
+      "artist": "Kirill Platonkin",
+      "year": 2015,
+      "label": "45 Echoes Sounds",
+      "licence": {
+        "name": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "source": "https://archive.org/details/45e-037-2015KirillPlatonkin-RestInSpace",
+      "sourceName": "Internet Archive",
+      "cover": "assets/radio/covers/kirill-platonkin-rest-in-space.jpg",
+      "coverSource": "https://archive.org/download/45e-037-2015KirillPlatonkin-RestInSpace/45E037-Cover.jpg",
+      "tracks": [
+        {
+          "title": "In The Dream Field",
+          "duration": "5:52",
+          "file": "https://archive.org/download/45e-037-2015KirillPlatonkin-RestInSpace/01InTheDreamField.mp3"
+        },
+        {
+          "title": "Stellar Breath",
+          "duration": "7:54",
+          "file": "https://archive.org/download/45e-037-2015KirillPlatonkin-RestInSpace/02StellarBreath.mp3"
+        },
+        {
+          "title": "Falling Up",
+          "duration": "11:18",
+          "file": "https://archive.org/download/45e-037-2015KirillPlatonkin-RestInSpace/03FallingUp.mp3"
+        },
+        {
+          "title": "Rest In Space",
+          "duration": "8:29",
+          "file": "https://archive.org/download/45e-037-2015KirillPlatonkin-RestInSpace/04RestInSpace.mp3"
+        },
+        {
+          "title": "At Last",
+          "duration": "8:28",
+          "file": "https://archive.org/download/45e-037-2015KirillPlatonkin-RestInSpace/05AtLast.mp3"
+        }
+      ]
+    },
+    {
+      "id": "lost-radiance-upon-us",
+      "title": "Upon Us",
+      "artist": "Lost Radiance",
+      "year": 2014,
+      "label": "United Studios (USC)",
+      "licence": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "source": "https://archive.org/details/lost-radiance-upon-us",
+      "sourceName": "Internet Archive",
+      "cover": "assets/radio/covers/lost-radiance-upon-us.jpg",
+      "coverSource": "https://archive.org/download/lost-radiance-upon-us/UponUs.jpg",
+      "tracks": [
+        {
+          "title": "In the Beginning",
+          "duration": "7:55",
+          "file": "https://archive.org/download/lost-radiance-upon-us/01.In%20the%20Beginning.mp3"
+        },
+        {
+          "title": "Radiant",
+          "duration": "10:43",
+          "file": "https://archive.org/download/lost-radiance-upon-us/02.Radiant.mp3"
+        },
+        {
+          "title": "On the Planet Far Away Part I",
+          "duration": "6:11",
+          "file": "https://archive.org/download/lost-radiance-upon-us/03.On%20the%20Planet%20Far%20Away%20Part%20I.mp3"
+        },
+        {
+          "title": "Spatium Incognitum",
+          "duration": "4:51",
+          "file": "https://archive.org/download/lost-radiance-upon-us/04.Spatium%20Incognitum.mp3"
+        },
+        {
+          "title": "Colony",
+          "duration": "10:43",
+          "file": "https://archive.org/download/lost-radiance-upon-us/05.Colony.mp3"
+        },
+        {
+          "title": "On the Planet Far Away Part II",
+          "duration": "7:26",
+          "file": "https://archive.org/download/lost-radiance-upon-us/06.On%20the%20Planet%20Far%20Away%20Part%20II.mp3"
+        },
+        {
+          "title": "Astronaut and the Sky",
+          "duration": "5:35",
+          "file": "https://archive.org/download/lost-radiance-upon-us/07.Astronaut%20and%20the%20Sky.mp3"
+        },
+        {
+          "title": "Lost and Found",
+          "duration": "9:38",
+          "file": "https://archive.org/download/lost-radiance-upon-us/08.Lost%20and%20Found.mp3"
+        },
+        {
+          "title": "Look Around",
+          "duration": "7:44",
+          "file": "https://archive.org/download/lost-radiance-upon-us/09.Look%20Around.mp3"
+        }
+      ],
+      "licenceNote": "The Internet Archive item metadata says CC BY-SA 3.0; the label's release notes on the same page say CC BY-SA 4.0. Both allow streaming and redistribution with credit. Treated as CC BY-SA 4.0 (the label's own statement)."
+    },
+    {
+      "id": "meteora-the-northern-path",
+      "title": "The Northern Path",
+      "artist": "Meteora",
+      "year": 2017,
+      "label": "United Studios (USC)",
+      "licence": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "source": "https://archive.org/details/meteora-northern-path",
+      "sourceName": "Internet Archive",
+      "cover": "assets/radio/covers/meteora-the-northern-path.jpg",
+      "coverSource": "https://archive.org/download/meteora-northern-path/The%20Northern%20Path.jpg",
+      "tracks": [
+        {
+          "title": "The Beginning of the Path",
+          "duration": "3:12",
+          "file": "https://archive.org/download/meteora-northern-path/01.Meteora%20-%20The%20Beginning%20of%20the%20Path.mp3"
+        },
+        {
+          "title": "Arctic Flight",
+          "duration": "10:59",
+          "file": "https://archive.org/download/meteora-northern-path/02.Meteora%20-%20Arctic%20Flight.mp3"
+        },
+        {
+          "title": "Whiteout",
+          "duration": "7:02",
+          "file": "https://archive.org/download/meteora-northern-path/03.Meteora%20-%20Whiteout.mp3"
+        },
+        {
+          "title": "Polar Expedition Part 1",
+          "duration": "2:26",
+          "file": "https://archive.org/download/meteora-northern-path/04.Meteora%20-%20Polar%20Expedition%20Part%201.mp3"
+        },
+        {
+          "title": "Polar Expedition Part 2",
+          "duration": "5:02",
+          "file": "https://archive.org/download/meteora-northern-path/05.Meteora%20-%20Polar%20Expedition%20Part%202.mp3"
+        },
+        {
+          "title": "Ice Fields",
+          "duration": "7:23",
+          "file": "https://archive.org/download/meteora-northern-path/06.Meteora%20-%20Ice%20Fields.mp3"
+        },
+        {
+          "title": "Acoustics of the Ice",
+          "duration": "2:36",
+          "file": "https://archive.org/download/meteora-northern-path/07.Meteora%20-%20Acoustics%20of%20the%20Ice.mp3"
+        },
+        {
+          "title": "People on the Ice Floe",
+          "duration": "7:51",
+          "file": "https://archive.org/download/meteora-northern-path/08.Meteora%20-%20People%20on%20the%20Ice%20Floe.mp3"
+        },
+        {
+          "title": "A Lone Iceberg",
+          "duration": "6:40",
+          "file": "https://archive.org/download/meteora-northern-path/09.Meteora%20-%20A%20Lone%20Iceberg.mp3"
+        },
+        {
+          "title": "The Northern Path",
+          "duration": "5:59",
+          "file": "https://archive.org/download/meteora-northern-path/10.Meteora%20-%20The%20Northern%20Path.mp3"
+        },
+        {
+          "title": "Over the Pole",
+          "duration": "3:28",
+          "file": "https://archive.org/download/meteora-northern-path/11.Meteora%20-%20Over%20the%20Pole.mp3"
+        },
+        {
+          "title": "Orange Horizon",
+          "duration": "7:49",
+          "file": "https://archive.org/download/meteora-northern-path/12.Meteora%20-%20Orange%20Horizon.mp3"
+        },
+        {
+          "title": "Beyond the Path",
+          "duration": "3:41",
+          "file": "https://archive.org/download/meteora-northern-path/13.Meteora%20-%20Beyond%20the%20Path.mp3"
+        }
+      ]
+    },
+    {
+      "id": "daniel-robert-lahey-gravity-s-kiss",
+      "title": "Gravity's Kiss",
+      "artist": "Daniel Robert Lahey",
+      "year": 2013,
+      "label": "Free Floating Music",
+      "licence": {
+        "name": "CC BY-NC-ND 3.0",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "source": "https://archive.org/details/freefloatingmusic021",
+      "sourceName": "Internet Archive",
+      "cover": "assets/radio/covers/daniel-robert-lahey-gravity-s-kiss.jpg",
+      "coverSource": "https://archive.org/download/freefloatingmusic021/FFM-021.jpg",
+      "tracks": [
+        {
+          "title": "unseen and unheard yet known",
+          "duration": "14:02",
+          "file": "https://archive.org/download/freefloatingmusic021/01%20-%20unseen%20and%20unheard%20yet%20known.mp3"
+        },
+        {
+          "title": "benediction",
+          "duration": "6:05",
+          "file": "https://archive.org/download/freefloatingmusic021/02%20-%20benediction.mp3"
+        },
+        {
+          "title": "every breath a poem",
+          "duration": "11:19",
+          "file": "https://archive.org/download/freefloatingmusic021/03%20-%20every%20breath%20a%20poem.mp3"
+        },
+        {
+          "title": "osiris",
+          "duration": "7:47",
+          "file": "https://archive.org/download/freefloatingmusic021/04%20-%20osiris.mp3"
+        },
+        {
+          "title": "gravity's kiss",
+          "duration": "12:09",
+          "file": "https://archive.org/download/freefloatingmusic021/05%20-%20gravity%27s%20kiss.mp3"
+        },
+        {
+          "title": "what days are these",
+          "duration": "7:13",
+          "file": "https://archive.org/download/freefloatingmusic021/06%20-%20what%20days%20are%20these.mp3"
+        },
+        {
+          "title": "fear less",
+          "duration": "8:17",
+          "file": "https://archive.org/download/freefloatingmusic021/07%20-%20fear%20less.mp3"
+        },
+        {
+          "title": "ocean deep ocean",
+          "duration": "7:24",
+          "file": "https://archive.org/download/freefloatingmusic021/08%20-%20ocean%20deep%20ocean.mp3"
+        },
+        {
+          "title": "angels forget their wings",
+          "duration": "9:37",
+          "file": "https://archive.org/download/freefloatingmusic021/09%20-%20angels%20forget%20their%20wings.mp3"
+        },
+        {
+          "title": "glissade",
+          "duration": "13:38",
+          "file": "https://archive.org/download/freefloatingmusic021/10%20-%20glissade.mp3"
+        },
+        {
+          "title": "a pageant of clouds",
+          "duration": "14:04",
+          "file": "https://archive.org/download/freefloatingmusic021/11%20-%20a%20pageant%20of%20clouds.mp3"
+        }
+      ]
+    },
+    {
+      "id": "exalot-air-secrets",
+      "title": "Air Secrets",
+      "artist": "Exalot",
+      "year": 2019,
+      "label": "United Studios (USC)",
+      "licence": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "source": "https://archive.org/details/exalot-air-secrets",
+      "sourceName": "Internet Archive",
+      "cover": "assets/radio/covers/exalot-air-secrets.jpg",
+      "coverSource": "https://archive.org/download/exalot-air-secrets/Air%20Secrets.jpg",
+      "tracks": [
+        {
+          "title": "Ibrihun",
+          "duration": "7:41",
+          "file": "https://archive.org/download/exalot-air-secrets/01.Exalot%20-%20Ibrihun.mp3"
+        },
+        {
+          "title": "Cosmic Rain",
+          "duration": "7:55",
+          "file": "https://archive.org/download/exalot-air-secrets/02.Exalot%20-%20Cosmic%20Rain.mp3"
+        },
+        {
+          "title": "Lonely Thron",
+          "duration": "12:40",
+          "file": "https://archive.org/download/exalot-air-secrets/03.Exalot%20-%20Lonely%20Thron.mp3"
+        },
+        {
+          "title": "Sad Serenity",
+          "duration": "6:03",
+          "file": "https://archive.org/download/exalot-air-secrets/04.Exalot%20-%20Sad%20Serenity.mp3"
+        },
+        {
+          "title": "Cosmic Astral",
+          "duration": "12:56",
+          "file": "https://archive.org/download/exalot-air-secrets/05.Exalot%20-%20Cosmic%20Astral.mp3"
+        },
+        {
+          "title": "Fire and Fiola",
+          "duration": "9:49",
+          "file": "https://archive.org/download/exalot-air-secrets/06.Exalot%20-%20Fire%20and%20Fiola.mp3"
+        },
+        {
+          "title": "Air Secrets",
+          "duration": "5:42",
+          "file": "https://archive.org/download/exalot-air-secrets/07.Exalot%20-%20Air%20Secrets.mp3"
+        },
+        {
+          "title": "A Dream in the White Night",
+          "duration": "9:53",
+          "file": "https://archive.org/download/exalot-air-secrets/08.Exalot%20-%20A%20Dream%20in%20the%20White%20Night.mp3"
+        }
+      ]
+    },
+    {
+      "id": "marcus-denight-the-rustle-of-star-memories",
+      "title": "The Rustle of Star Memories",
+      "artist": "Marcus Denight",
+      "year": 2017,
+      "label": "United Studios (USC)",
+      "licence": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "source": "https://archive.org/details/marcus-denight-the-rustle-of-star-memories",
+      "sourceName": "Internet Archive",
+      "cover": "assets/radio/covers/marcus-denight-the-rustle-of-star-memories.jpg",
+      "coverSource": "https://archive.org/download/marcus-denight-the-rustle-of-star-memories/The%20Rustle%20of%20Star%20Memories.jpg",
+      "tracks": [
+        {
+          "title": "Invitation to Star Memories",
+          "duration": "3:44",
+          "file": "https://archive.org/download/marcus-denight-the-rustle-of-star-memories/01.Marcus%20Denight%20-%20Invitation%20to%20Star%20Memories.mp3"
+        },
+        {
+          "title": "A Handful of Starry Sadness",
+          "duration": "5:32",
+          "file": "https://archive.org/download/marcus-denight-the-rustle-of-star-memories/02.Marcus%20Denight%20-%20A%20Handful%20of%20Starry%20Sadness.mp3"
+        },
+        {
+          "title": "Heavenly Soundscapes",
+          "duration": "5:32",
+          "file": "https://archive.org/download/marcus-denight-the-rustle-of-star-memories/03.Marcus%20Denight%20-%20Heavenly%20Soundscapes.mp3"
+        },
+        {
+          "title": "Vacuum",
+          "duration": "6:19",
+          "file": "https://archive.org/download/marcus-denight-the-rustle-of-star-memories/04.Marcus%20Denight%20-%20Vacuum.mp3"
+        },
+        {
+          "title": "Meditation Upon the Star Placers",
+          "duration": "5:36",
+          "file": "https://archive.org/download/marcus-denight-the-rustle-of-star-memories/05.Marcus%20Denight%20-%20Meditation%20Upon%20the%20Star%20Placers.mp3"
+        },
+        {
+          "title": "The Rustle of Star Memories",
+          "duration": "4:51",
+          "file": "https://archive.org/download/marcus-denight-the-rustle-of-star-memories/06.Marcus%20Denight%20-%20The%20Rustle%20of%20Star%20Memories.mp3"
+        },
+        {
+          "title": "Exciting Landing",
+          "duration": "6:49",
+          "file": "https://archive.org/download/marcus-denight-the-rustle-of-star-memories/07.Marcus%20Denight%20-%20Exciting%20Landing.mp3"
+        },
+        {
+          "title": "P.S. Dream on a Distant Planet",
+          "duration": "2:50",
+          "file": "https://archive.org/download/marcus-denight-the-rustle-of-star-memories/08.Marcus%20Denight%20-%20P.S.%20Dream%20on%20a%20Distant%20Planet.mp3"
+        }
+      ]
+    },
+    {
+      "id": "vortex-mechanic-at-the-edge-of-solar-system",
+      "title": "At the Edge of Solar System",
+      "artist": "Vortex Mechanic",
+      "year": 2014,
+      "label": "United Studios (USC)",
+      "licence": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "source": "https://archive.org/details/vortex-mechanic-at-edge-of-solar-system",
+      "sourceName": "Internet Archive",
+      "cover": "assets/radio/covers/vortex-mechanic-at-the-edge-of-solar-system.jpg",
+      "coverSource": "https://archive.org/download/vortex-mechanic-at-edge-of-solar-system/0205.jpg",
+      "tracks": [
+        {
+          "title": "Sleepy Giant",
+          "duration": "20:05",
+          "file": "https://archive.org/download/vortex-mechanic-at-edge-of-solar-system/01.Sleepy%20Giant.mp3"
+        },
+        {
+          "title": "Saturn Rings Traveler",
+          "duration": "9:24",
+          "file": "https://archive.org/download/vortex-mechanic-at-edge-of-solar-system/02.Saturn%20Rings%20Traveler.mp3"
+        },
+        {
+          "title": "Near Star Calling",
+          "duration": "9:30",
+          "file": "https://archive.org/download/vortex-mechanic-at-edge-of-solar-system/03.Near%20Star%20Calling.mp3"
+        },
+        {
+          "title": "Plutonia",
+          "duration": "15:40",
+          "file": "https://archive.org/download/vortex-mechanic-at-edge-of-solar-system/04.Plutonia.mp3"
+        },
+        {
+          "title": "Erida Nights",
+          "duration": "9:53",
+          "file": "https://archive.org/download/vortex-mechanic-at-edge-of-solar-system/05.Erida%20Nights.mp3"
+        },
+        {
+          "title": "Last Sunset Over Phaeton",
+          "duration": "4:02",
+          "file": "https://archive.org/download/vortex-mechanic-at-edge-of-solar-system/06.Last%20Sunset%20Over%20Phaeton.mp3"
+        }
+      ],
+      "licenceNote": "The Internet Archive item metadata says CC BY-SA 3.0; the label's release notes on the same page say CC BY-SA 4.0. Both allow streaming and redistribution with credit. Treated as CC BY-SA 4.0 (the label's own statement)."
+    },
+    {
+      "id": "asato-maa-is-coming",
+      "title": "… Is Coming",
+      "artist": "Asato Maa",
+      "year": 2020,
+      "label": "Enough Records",
+      "licence": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "source": "https://archive.org/details/enrmp464_asato_maa_-_____is_coming",
+      "sourceName": "Internet Archive",
+      "cover": "assets/radio/covers/asato-maa-is-coming.jpg",
+      "coverSource": "https://archive.org/download/enrmp464_asato_maa_-_____is_coming/00_asato_maa_-_____is_coming.jpg",
+      "tracks": [
+        {
+          "title": "Enigma",
+          "duration": "1:49",
+          "file": "https://archive.org/download/enrmp464_asato_maa_-_____is_coming/01_asato_maa_-_enigma.mp3"
+        },
+        {
+          "title": "HeartBeat",
+          "duration": "4:02",
+          "file": "https://archive.org/download/enrmp464_asato_maa_-_____is_coming/02_asato_maa_-_heartbeat.mp3"
+        },
+        {
+          "title": "Darkness Is Coming",
+          "duration": "4:32",
+          "file": "https://archive.org/download/enrmp464_asato_maa_-_____is_coming/03_asato_maa_-_darkness_is_coming.mp3"
+        },
+        {
+          "title": "Through the Dark Forest",
+          "duration": "5:40",
+          "file": "https://archive.org/download/enrmp464_asato_maa_-_____is_coming/04_asato_maa_-_through_the_dark_forest.mp3"
+        },
+        {
+          "title": "Awareness Is Coming",
+          "duration": "2:29",
+          "file": "https://archive.org/download/enrmp464_asato_maa_-_____is_coming/05_asato_maa_-_awareness_is_coming.mp3"
+        },
+        {
+          "title": "Dawn Is at Hand",
+          "duration": "6:21",
+          "file": "https://archive.org/download/enrmp464_asato_maa_-_____is_coming/06_asato_maa_-_dawn_is_at_hand.mp3"
+        },
+        {
+          "title": "Spring Is Coming",
+          "duration": "5:00",
+          "file": "https://archive.org/download/enrmp464_asato_maa_-_____is_coming/07_asato_maa_-_spring_is_coming.mp3"
+        },
+        {
+          "title": "Changes Are Coming",
+          "duration": "4:59",
+          "file": "https://archive.org/download/enrmp464_asato_maa_-_____is_coming/08_asato_maa_-_changes_are_coming.mp3"
+        },
+        {
+          "title": "Summer Is Coming",
+          "duration": "2:59",
+          "file": "https://archive.org/download/enrmp464_asato_maa_-_____is_coming/09_asato_maa_-_summer_is_coming.mp3"
+        }
+      ]
+    },
+    {
+      "id": "hash-head-extrasolar-worlds",
+      "title": "Extrasolar Worlds",
+      "artist": "hash-head",
+      "year": 2012,
+      "label": "United Studios (USC)",
+      "licence": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+      },
+      "source": "https://archive.org/details/hash-head-extrasolar-worlds",
+      "sourceName": "Internet Archive",
+      "cover": "assets/radio/covers/hash-head-extrasolar-worlds.jpg",
+      "coverSource": "https://archive.org/download/hash-head-extrasolar-worlds/0096.jpg",
+      "tracks": [
+        {
+          "title": "Search",
+          "duration": "8:50",
+          "file": "https://archive.org/download/hash-head-extrasolar-worlds/01.Search.mp3"
+        },
+        {
+          "title": "Night in the Observatory",
+          "duration": "4:37",
+          "file": "https://archive.org/download/hash-head-extrasolar-worlds/02.Night%20in%20the%20Observatory.mp3"
+        },
+        {
+          "title": "The Tribe of Discoverer",
+          "duration": "4:28",
+          "file": "https://archive.org/download/hash-head-extrasolar-worlds/03.The%20Tribe%20of%20Discoverer.mp3"
+        },
+        {
+          "title": "Planetary Twist",
+          "duration": "3:32",
+          "file": "https://archive.org/download/hash-head-extrasolar-worlds/04.Planetary%20Twist.mp3"
+        },
+        {
+          "title": "Breaking",
+          "duration": "4:11",
+          "file": "https://archive.org/download/hash-head-extrasolar-worlds/05.Breaking.mp3"
+        },
+        {
+          "title": "Dead Civilizations' Echo",
+          "duration": "4:36",
+          "file": "https://archive.org/download/hash-head-extrasolar-worlds/06.Dead%20Civilizations%2527%20Echo.mp3"
+        },
+        {
+          "title": "The Ninth Moon",
+          "duration": "6:28",
+          "file": "https://archive.org/download/hash-head-extrasolar-worlds/07.The%20Ninth%20Moon.mp3"
+        },
+        {
+          "title": "Mechanical Catharsis",
+          "duration": "3:48",
+          "file": "https://archive.org/download/hash-head-extrasolar-worlds/08.Mechanical%20Catharsis.mp3"
+        },
+        {
+          "title": "Interstellar Meditation",
+          "duration": "6:20",
+          "file": "https://archive.org/download/hash-head-extrasolar-worlds/09.Interstellar%20Meditation.mp3"
+        },
+        {
+          "title": "Loneliness",
+          "duration": "3:13",
+          "file": "https://archive.org/download/hash-head-extrasolar-worlds/10.Loneliness.mp3"
+        },
+        {
+          "title": "The Cradle of Humanity",
+          "duration": "2:57",
+          "file": "https://archive.org/download/hash-head-extrasolar-worlds/11.The%20Cradle%20of%20Humanity.mp3"
+        },
+        {
+          "title": "One of Many Billions",
+          "duration": "6:12",
+          "file": "https://archive.org/download/hash-head-extrasolar-worlds/12.One%20of%20Many%20Billions.mp3"
+        }
+      ]
+    },
+    {
+      "id": "susperia-electrica-light-years-away",
+      "title": "Light Years Away",
+      "artist": "Susperia-Electrica",
+      "licence": {
+        "name": "CC BY-NC-ND 3.0",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "source": "https://archive.org/details/LightYearsAway",
+      "sourceName": "Internet Archive",
+      "cover": "assets/radio/covers/susperia-electrica-light-years-away.jpg",
+      "coverSource": "https://archive.org/download/LightYearsAway/LightYearsAwayCover.jpg",
+      "tracks": [
+        {
+          "title": "Pulsar B1509",
+          "duration": "6:02",
+          "file": "https://archive.org/download/LightYearsAway/1.PulsarB1509.mp3"
+        },
+        {
+          "title": "Nebula NGC 1333",
+          "duration": "6:46",
+          "file": "https://archive.org/download/LightYearsAway/2.NebulaNgc1333.mp3"
+        },
+        {
+          "title": "Melted By The Heat",
+          "duration": "6:54",
+          "file": "https://archive.org/download/LightYearsAway/3.MeltedByTheHeat.mp3"
+        },
+        {
+          "title": "Messenger",
+          "duration": "7:42",
+          "file": "https://archive.org/download/LightYearsAway/4.Messenger.mp3"
+        },
+        {
+          "title": "Cassiopeia",
+          "duration": "11:36",
+          "file": "https://archive.org/download/LightYearsAway/5.Cassiopeia.mp3"
+        },
+        {
+          "title": "A Planet Paradise",
+          "duration": "5:38",
+          "file": "https://archive.org/download/LightYearsAway/6.APlanetParadise.mp3"
+        },
+        {
+          "title": "Timeless",
+          "duration": "6:48",
+          "file": "https://archive.org/download/LightYearsAway/7.Timeless.mp3"
+        }
+      ]
+    },
+    {
+      "id": "astrovia-derek-nigell-world-of-specular-loomings",
+      "title": "World of Specular Loomings",
+      "artist": "Astrovia & Derek Nigell",
+      "year": 2018,
+      "label": "United Studios (USC)",
+      "licence": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "source": "https://archive.org/details/astrovia-derek-nigell-world-of-specular-loomings",
+      "sourceName": "Internet Archive",
+      "cover": "assets/radio/covers/astrovia-derek-nigell-world-of-specular-loomings.jpg",
+      "coverSource": "https://archive.org/download/astrovia-derek-nigell-world-of-specular-loomings/World%20of%20Specular%20Loomings.jpg",
+      "tracks": [
+        {
+          "title": "Radiant Realms",
+          "duration": "5:49",
+          "file": "https://archive.org/download/astrovia-derek-nigell-world-of-specular-loomings/01.Radiant%20Realms.mp3"
+        },
+        {
+          "title": "Twilight Playing",
+          "duration": "4:56",
+          "file": "https://archive.org/download/astrovia-derek-nigell-world-of-specular-loomings/02.Twilight%20Playing.mp3"
+        },
+        {
+          "title": "Scattering Part 1",
+          "duration": "5:56",
+          "file": "https://archive.org/download/astrovia-derek-nigell-world-of-specular-loomings/03.Scattering%20Part%201.mp3"
+        },
+        {
+          "title": "Gravitational Lens",
+          "duration": "5:13",
+          "file": "https://archive.org/download/astrovia-derek-nigell-world-of-specular-loomings/04.Gravitational%20Lens.mp3"
+        },
+        {
+          "title": "Passed Glare",
+          "duration": "9:25",
+          "file": "https://archive.org/download/astrovia-derek-nigell-world-of-specular-loomings/05.Passed%20Glare.mp3"
+        },
+        {
+          "title": "Glassy Interlude",
+          "duration": "3:24",
+          "file": "https://archive.org/download/astrovia-derek-nigell-world-of-specular-loomings/06.Glassy%20Interlude.mp3"
+        },
+        {
+          "title": "Splinters in the Wind",
+          "duration": "4:37",
+          "file": "https://archive.org/download/astrovia-derek-nigell-world-of-specular-loomings/07.Splinters%20in%20the%20Wind.mp3"
+        },
+        {
+          "title": "Scattering Part 2",
+          "duration": "5:01",
+          "file": "https://archive.org/download/astrovia-derek-nigell-world-of-specular-loomings/08.Scattering%20Part%202.mp3"
+        },
+        {
+          "title": "Crooked Mirrors",
+          "duration": "6:43",
+          "file": "https://archive.org/download/astrovia-derek-nigell-world-of-specular-loomings/09.Crooked%20Mirrors.mp3"
+        },
+        {
+          "title": "Parade of Reflections",
+          "duration": "5:52",
+          "file": "https://archive.org/download/astrovia-derek-nigell-world-of-specular-loomings/10.Parade%20of%20Reflections.mp3"
+        },
+        {
+          "title": "Crystallic Stillness",
+          "duration": "4:51",
+          "file": "https://archive.org/download/astrovia-derek-nigell-world-of-specular-loomings/11.Crystallic%20Stillness.mp3"
+        }
+      ]
+    },
+    {
+      "id": "spacebirds-return-to-moonbase",
+      "title": "Return to Moonbase",
+      "artist": "Spacebirds",
+      "year": 2013,
+      "label": "Laser Visa",
+      "licence": {
+        "name": "CC BY-NC-ND 3.0",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      },
+      "source": "https://archive.org/details/lv010Spacebirds-ReturnToMoonbase",
+      "sourceName": "Internet Archive",
+      "cover": "assets/radio/covers/spacebirds-return-to-moonbase.jpg",
+      "coverSource": "https://archive.org/download/lv010Spacebirds-ReturnToMoonbase/LV010-Cover.jpg",
+      "tracks": [
+        {
+          "title": "Princesses Of Venus",
+          "duration": "7:49",
+          "file": "https://archive.org/download/lv010Spacebirds-ReturnToMoonbase/01spacebirds_-_princesses_of_venus.mp3"
+        },
+        {
+          "title": "Return To Moonbase",
+          "duration": "6:53",
+          "file": "https://archive.org/download/lv010Spacebirds-ReturnToMoonbase/02spacebirds_-_return_to_moonbase.mp3"
+        },
+        {
+          "title": "My Toy Spaceship",
+          "duration": "7:12",
+          "file": "https://archive.org/download/lv010Spacebirds-ReturnToMoonbase/03spacebirds_-_my_toy_spaceship.mp3"
+        },
+        {
+          "title": "Spaceship Lab",
+          "duration": "4:32",
+          "file": "https://archive.org/download/lv010Spacebirds-ReturnToMoonbase/04spacebirds_-_spaceship_lab.mp3"
+        },
+        {
+          "title": "Princesses Of Venus (Toxic Chicken Remix)",
+          "duration": "3:48",
+          "file": "https://archive.org/download/lv010Spacebirds-ReturnToMoonbase/05spacebirds_-_princesses_of_venus_Toxic_Chicken_remix.mp3"
+        },
+        {
+          "title": "Return To Moonbase (MuLab Promo Mix)",
+          "duration": "7:00",
+          "file": "https://archive.org/download/lv010Spacebirds-ReturnToMoonbase/06spacebirds_-_return_to_moonbase_MulabDemo.mp3"
+        },
+        {
+          "title": "My Toy Spaceship (Microbit Toy Casio SA46 Remix)",
+          "duration": "6:27",
+          "file": "https://archive.org/download/lv010Spacebirds-ReturnToMoonbase/07spacebirds_-_my_toy_spaceship_toy-demo-with-casioSA46.mp3"
+        }
+      ]
+    },
+    {
+      "id": "rigel-centaurus-atlas-coelestis",
+      "title": "Atlas Coelestis",
+      "artist": "Rigel Centaurus",
+      "year": 2012,
+      "label": "United Studios (USC)",
+      "licence": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+      },
+      "source": "https://archive.org/details/rigel-centaurus-atlas-coelestis",
+      "sourceName": "Internet Archive",
+      "cover": "assets/radio/covers/rigel-centaurus-atlas-coelestis.jpg",
+      "coverSource": "https://archive.org/download/rigel-centaurus-atlas-coelestis/0087.jpg",
+      "tracks": [
+        {
+          "title": "Пролог",
+          "duration": "4:29",
+          "file": "https://archive.org/download/rigel-centaurus-atlas-coelestis/01.Prologue.mp3"
+        },
+        {
+          "title": "Отраженный радиосигнал",
+          "duration": "10:14",
+          "file": "https://archive.org/download/rigel-centaurus-atlas-coelestis/02.Reflected%20Radio%20Signal.mp3"
+        },
+        {
+          "title": "Гамма-всплеск",
+          "duration": "17:10",
+          "file": "https://archive.org/download/rigel-centaurus-atlas-coelestis/03.Gamma-Burst.mp3"
+        },
+        {
+          "title": "Орбита Глизе 581 d",
+          "duration": "9:36",
+          "file": "https://archive.org/download/rigel-centaurus-atlas-coelestis/04.The%20Orbit%20of%20Gliese%20581%20d.mp3"
+        },
+        {
+          "title": "Невесомость (Мы здесь одни)",
+          "duration": "11:51",
+          "file": "https://archive.org/download/rigel-centaurus-atlas-coelestis/05.Zero%20Gravity%20%28We%20are%20Alone%20Here%29.mp3"
+        },
+        {
+          "title": "Система погибшей звезды",
+          "duration": "10:10",
+          "file": "https://archive.org/download/rigel-centaurus-atlas-coelestis/06.The%20System%20of%20the%20Dead%20Star.mp3"
+        },
+        {
+          "title": "Atlas Coelestis (Звездный атлас)",
+          "duration": "16:11",
+          "file": "https://archive.org/download/rigel-centaurus-atlas-coelestis/07.Atlas%20Coelestis.mp3"
+        }
+      ]
+    },
+    {
+      "id": "scott-lawlor-eugenekha-jupiter-s-cyclone",
+      "title": "Jupiter's Cyclone",
+      "artist": "Scott Lawlor & EugeneKha",
+      "year": 2014,
+      "label": "45 Echoes Sounds",
+      "licence": {
+        "name": "CC BY-NC-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "source": "https://archive.org/details/45e-034-2014ScottLawlorEugenekha-JupitersCyclone",
+      "sourceName": "Internet Archive",
+      "cover": "assets/radio/covers/scott-lawlor-eugenekha-jupiter-s-cyclone.jpg",
+      "coverSource": "https://archive.org/download/45e-034-2014ScottLawlorEugenekha-JupitersCyclone/45E034-Cover.jpg",
+      "tracks": [
+        {
+          "title": "The North Tropical Zone",
+          "duration": "32:00",
+          "file": "https://archive.org/download/45e-034-2014ScottLawlorEugenekha-JupitersCyclone/101-The_North_Tropical_Zone.mp3"
+        },
+        {
+          "title": "A South Tropical Disturbance",
+          "duration": "47:21",
+          "file": "https://archive.org/download/45e-034-2014ScottLawlorEugenekha-JupitersCyclone/102-A_South_Tropical_Disturbance.mp3"
+        },
+        {
+          "title": "The South Equatorial Belt",
+          "duration": "17:05",
+          "file": "https://archive.org/download/45e-034-2014ScottLawlorEugenekha-JupitersCyclone/201-The_South_Equatorial_Belt.mp3"
+        },
+        {
+          "title": "The Great Red Spot",
+          "duration": "38:47",
+          "file": "https://archive.org/download/45e-034-2014ScottLawlorEugenekha-JupitersCyclone/202-The_Great_Red_Spot.mp3"
+        },
+        {
+          "title": "Jupiters Cyclone",
+          "duration": "13:01",
+          "file": "https://archive.org/download/45e-034-2014ScottLawlorEugenekha-JupitersCyclone/203-Jupiters_Cyclone.mp3"
+        },
+        {
+          "title": "Prograde Jet Stream",
+          "duration": "1:18:03",
+          "file": "https://archive.org/download/45e-034-2014ScottLawlorEugenekha-JupitersCyclone/301-Prograde_jet_Stream.mp3"
+        },
+        {
+          "title": "The North Equatorial Belt",
+          "duration": "48:00",
+          "file": "https://archive.org/download/45e-034-2014ScottLawlorEugenekha-JupitersCyclone/401-The_North_Equatorial_Belt.mp3"
+        },
+        {
+          "title": "Jupiters Light",
+          "duration": "23:48",
+          "file": "https://archive.org/download/45e-034-2014ScottLawlorEugenekha-JupitersCyclone/402-Jupiter_Light.mp3"
+        }
+      ]
+    }
+  ]
+}
