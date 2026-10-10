@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Deep Space 2103 logo">
+  <g fill="none" stroke-linecap="round">
+    <g transform="rotate(-20 32 32)">
+      <path d="M5 32A27 8 0 0 1 59 32" stroke="#ff2639" stroke-width="2"/>
+      <circle cx="32" cy="32" r="14" fill="#070708" stroke="#ff2639" stroke-width="2"/>
+      <path d="M22.5 28.5A10 10 0 0 1 28.5 22.5" stroke="#ff2639" stroke-width="1.4" opacity=".6"/>
+      <path d="M48 38.44A27 8 0 0 1 16 38.44" stroke="#070708" stroke-width="6"/>
+      <path d="M59 32A27 8 0 0 1 5 32" stroke="#ff2639" stroke-width="2"/>
+      <circle cx="52.7" cy="37.1" r="2.6" fill="#ff2639" stroke="#070708" stroke-width="2"/>
+    </g>
+    <path d="M52 6.5v6M49 9.5h6M11 50.5v4M9 52.5h4" stroke="#ff2639" stroke-width="1.4"/>
+  </g>
+</svg>

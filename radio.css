@@ -1,4 +1,9 @@
 /* Radio page. Builds on journal.css: same colours, fonts, panels and buttons. */
+.radio-heading{display:flex;align-items:center;gap:clamp(18px,3vw,34px)}
+.radio-heading>div{min-width:0}
+.radio-heading .eyebrow{margin-bottom:12px}
+.radio-heading>div>p:last-child{color:#aeb8bf;font-size:16px}
+.radio-logo{flex:none;width:clamp(78px,11vw,148px);height:auto;filter:drop-shadow(0 0 10px #ff263955)}
 .radio-player{display:grid;grid-template-columns:minmax(0,300px) minmax(0,1fr) 220px;gap:30px;padding:26px;align-items:start}
 .radio-cover{position:relative;border:1px solid var(--line);background:#101012}
 .radio-cover img{display:block;width:100%;height:auto;aspect-ratio:1;object-fit:cover}
@@ -40,6 +45,10 @@
 .radio-next span{display:block;color:var(--muted);font:11px/1.6 var(--mono)}
 .radio-noscript{padding:22px;margin-top:20px}
 
+.radio-about{margin-top:60px;padding-top:50px}
+.radio-about-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:30px}
+.radio-about h3{font-size:19px;line-height:1.25;letter-spacing:-.02em;margin-bottom:10px}
+.radio-about-grid p{color:#aeb8bf;font-size:15px}
 .radio-library-section{margin-top:60px;padding-top:50px}
 .radio-library{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,260px),1fr));gap:24px;align-items:stretch;margin-bottom:24px}
 .radio-album-card{display:flex;flex-direction:column;min-width:0;transition:border-color .2s,box-shadow .2s;scroll-margin-top:24px}
@@ -70,12 +79,15 @@
 .radio-toast{position:fixed;left:50%;bottom:20px;transform:translateX(-50%);z-index:20;max-width:min(92vw,520px);padding:12px 16px;background:#09090b;border:1px solid #c43a4b;font:12px/1.6 var(--mono);box-shadow:0 10px 40px #000}
 
 @media(max-width:1000px){
+ .radio-about-grid{grid-template-columns:1fr;gap:22px}
  .radio-player{grid-template-columns:minmax(0,240px) minmax(0,1fr)}
  .radio-next{grid-column:1/-1;border-left:0;border-top:1px solid var(--line);padding:18px 0 0}
  .radio-next ol{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:0 20px}
  .radio-next li{border-bottom:0}
 }
 @media(max-width:700px){
+ .radio-heading{align-items:flex-start}
+ .radio-heading>div>p:last-child{font-size:14px}
  .radio-player{grid-template-columns:1fr;padding:18px;gap:20px}
  .radio-cover{width:min(100%,210px);margin:auto}
  .radio-now h2{font-size:28px}
