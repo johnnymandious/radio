@@ -1,4 +1,4 @@
-# Deep Space 2103
+# Deep Space Radio
 
 The source for [the radio](https://johnnymandious.github.io/radio/): a non-stop deep space music station of space ambient, synthwave and Berlin School albums, all under Creative Commons licences. It is plain static HTML, CSS and JavaScript with no build step. The workflow in `.github/workflows/static.yml` publishes it to GitHub Pages whenever `main` changes.
 
@@ -13,7 +13,7 @@ It lives in its own repository, separate from [johnnymandious.com](https://johnn
 | `radio.css` | Radio styles. The page also loads `journal.css` and the fonts from johnnymandious.com, so it always matches the main site |
 | `assets/radio/albums.json` | The album list. This is the only file you need to edit to change what plays |
 | `assets/radio/covers/` | Album covers |
-| `assets/radio/brand/` | The Deep Space 2103 logo (`logo.svg`), favicon, app icons and the 1200×630 social card used when the link is shared |
+| `assets/radio/brand/` | The Deep Space Radio logo (`logo.svg`), favicon, app icons and the 1200×630 social card used when the link is shared |
 | `site.webmanifest` | Name and icons for when someone adds the radio to their phone's home screen |
 | `sitemap.xml` | Tells Google the radio page exists. Update its `lastmod` date when the page changes a lot |
 | `RADIO-LICENCE-REPORT.md` | Licence check for every album |
@@ -43,7 +43,7 @@ Optional fields are `year`, `label` and `licenceNote`. A track can override the 
 
 ## Getting found on Google
 
-The page title, description, heading and the "What is Deep Space 2103?" section all use the phrase "deep space music", which is what people search for. Keep that wording if you edit them.
+The page title, description, heading and the "What is Deep Space Radio?" section all use the phrase "deep space music", which is what people search for. Keep that wording if you edit them.
 
 To get Google to index the radio quickly:
 

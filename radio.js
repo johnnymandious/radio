@@ -176,7 +176,7 @@
     ui.seek.value = 0;
     ui.time.textContent = '0:00';
     ui.length.textContent = track.duration;
-    document.title = `${track.title} · ${album.artist} | Deep Space 2103`;
+    document.title = `${track.title} · ${album.artist} | Deep Space Radio`;
     document.querySelectorAll('.is-current').forEach(el => el.classList.remove('is-current'));
     document.getElementById('album-' + album.id)?.classList.add('is-current');
     document.querySelector(`[data-track="${CSS.escape(t.key)}"]`)?.classList.add('is-current');
@@ -276,7 +276,7 @@
       textFrame('TCOP', `${t.album.year ? t.album.year + ' ' : ''}${t.album.artist}. Licensed under ${l.name}: ${l.url}`),
       urlFrame('WCOP', l.url),
       urlFrame('WOAS', sourceOf(t)),
-      commentFrame(`${creditLine(t)}. Downloaded from Deep Space 2103, ${SITE}`)
+      commentFrame(`${creditLine(t)}. Downloaded from Deep Space Radio, ${SITE}`)
     ];
     if (t.album.year) frames.push(textFrame('TYER', String(t.album.year)));
     if (t.album.label) frames.push(textFrame('TPUB', t.album.label));
@@ -300,7 +300,7 @@
       if (onlyTrack && onlyTrack !== track) return;
       lines.push(`${String(i + 1).padStart(2, '0')}. ${track.title} (${track.duration})${track.licence ? ` [${track.licence.name}: ${track.licence.url}]` : ''}`);
     });
-    lines.push('', `This music is by ${album.artist}, not Johnny Mandious. You can share it under the licence above; credit the artist and link the licence.`, `Downloaded from Deep Space 2103, ${SITE}`, '');
+    lines.push('', `This music is by ${album.artist}, not Johnny Mandious. You can share it under the licence above; credit the artist and link the licence.`, `Downloaded from Deep Space Radio, ${SITE}`, '');
     return lines.join('\r\n');
   }
   const safeName = s => s.replace(/[\\/:*?"<>|\u0000-\u001f]+/g, ' ').replace(/\s+/g, ' ').trim().slice(0, 120);
